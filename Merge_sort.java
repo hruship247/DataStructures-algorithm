@@ -2,11 +2,6 @@ package algorithm;
 
 import java.util.Scanner;
 
-//"Onto branch 1= dev"
-
-
-//Second changes made
-
 public class Merge_sort {
 
 	public static void main(String[] args) {
@@ -17,7 +12,7 @@ public class Merge_sort {
 		{
 			a[i]= sc.nextInt();
 		}
-		System.out.println("Inside dev");
+		System.out.println("New change in alpha");
 		System.out.println("Before sorting");
 		print(a);
 		a= merge(a);
